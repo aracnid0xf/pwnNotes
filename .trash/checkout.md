@@ -1,1 +1,0 @@
-- siffatul salatun nabiyyi
