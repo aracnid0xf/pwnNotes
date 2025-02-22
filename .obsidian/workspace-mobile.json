@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "9675b94be727fa81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb86a5e14be22ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1486a3833ad8be98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e2d1abce286ab42",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d84e55fd31598cf1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7b6dabbee25195a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6a659598074a4a1c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": false
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ac8e3aad415ce755",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "b7f14728af77411b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "a24ca523d5a64f83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1cc59a24e32c05d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pwn resources urls.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "eb9c66a00abd7fe2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "pwn resources urls.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4809454efd5e0473",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "551e34b4248fdf80",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "1486a3833ad8be98",
+  "lastOpenFiles": [
+    "lfi2rce2revshell-docker/LFI 2 RCE exploiting pearcmd.php on php 7.3.md",
+    "segfault box key.md",
+    "Hackerone bug reports.md",
+    "hardening a docker instance.md",
+    "docker cheatsheet.md",
+    "escalate privs on Linux box.md",
+    "pwn resources urls.md",
+    "Revshells (Linux - Windows).md",
+    "checkout.md",
+    "LFI to RCE exploiting pearcmd.php on php -7.3.md",
+    "Untitled",
+    "What you should know to write code safe enough to put on the Internet.md",
+    "API Security Fundamentals.md",
+    "Mindset and Methodologies.md",
+    "Toolset for Web Attacks and Exploitation.md",
+    "Some tips.md",
+    "dates.md",
+    "arch & org assignment.md",
+    "YouTube follows.md",
+    "assets/kill-chain.jpg",
+    "game save.md",
+    "random",
+    "OWASP Top 10 background.md",
+    "Regulatory Compliance frameworks in  Nigeria.md",
+    "assets",
+    "Buzz Words.md",
+    "OWASP_SG_6_Sep_2023_The_new_OWASP_Top_10_API_Security_2023.pdf",
+    "vault",
+    "About Me.md",
+    "Attacking and Exploiting Modern Web Apps Notes/Index.md",
+    "AppSec Notes/Index.md",
+    "Test. py.md",
+    "Attacking and Exploiting Modern Web Apps Notes/Part 1",
+    "Attacking and Exploiting Modern Web Apps Notes",
+    "AppSec Notes"
+  ]
+}
