@@ -63,7 +63,11 @@ docker run --read-only \
 	/bin/bash
 ```
 
-4. Isolate running containers on segmented networks.
+1. Isolate running containers on segmented networks.
+- Isolated networks are created running:
+```bash
+# later ...
+```
 
 ---
 #docker #cheatsheet 

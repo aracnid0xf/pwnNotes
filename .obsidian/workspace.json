@@ -11,10 +11,14 @@
             "id": "1a174e436efdf227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hardening a docker instance.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "hardening a docker instance"
             }
           }
         ]
@@ -179,6 +183,13 @@
   },
   "active": "1a174e436efdf227",
   "lastOpenFiles": [
+    "Hackerone bug reports.md",
+    "escalate privs on Linux box.md",
+    "docker cheatsheet.md",
+    "pwn resources urls.md",
+    "hardening a docker instance.md",
+    "segfault box key.md",
+    "Revshells (Linux - Windows).md",
     "Untitled.canvas",
     "Note 01.md"
   ]
